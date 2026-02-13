@@ -120,6 +120,6 @@ Semana 6 – Apresentação final
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 (Adicionar nomes dos integrantes)
