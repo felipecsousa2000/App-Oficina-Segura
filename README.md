@@ -83,7 +83,7 @@ O aplicativo permitirá:
 
 ---
 
-## 🗂 Organização do Projeto
+## Organização do Projeto
 
 - Branch por funcionalidade
 - Pull Request obrigatório
