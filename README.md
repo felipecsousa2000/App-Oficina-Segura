@@ -123,3 +123,137 @@ Semana 6 – Apresentação final
 ## Equipe
 
 (Adicionar nomes dos integrantes)
+
+# App Oficina Segura – Pesquisa do Problema
+
+## Equipe
+**Integrantes:**  
+- Nome 1  
+- Nome 2  
+- Nome 3  
+- Nome 4  
+
+---
+
+# Objetivo da Semana 1
+
+Nesta etapa **não será desenvolvido o aplicativo**.
+
+O foco será realizar uma **pesquisa estruturada e fundamentada** sobre o problema que o projeto pretende resolver.
+
+A equipe deve responder:
+
+- O problema realmente existe?
+- Ele é estrutural ou pontual?
+- Pode ser analisado com dados?
+- Pode ser tratado com Ciência de Dados?
+
+---
+
+# Compreender o Problema Estrutural
+
+## Conceito Central: Assimetria de Informação
+
+### Pesquisar:
+
+- O que é assimetria de informação?
+- Como isso afeta mercados de serviços?
+- Por que serviços técnicos têm maior risco de abuso?
+- Como a informação reduz desigualdade de poder?
+
+### Produto Esperado:
+
+- Explicação clara do conceito
+- Conexão direta com oficinas mecânicas
+- Aplicação prática do conceito ao projeto
+
+---
+
+# Existe Evidência de Discriminação de Preço?
+
+## Investigar:
+
+- Mulheres pagam mais caro em oficinas?
+- Há estudos acadêmicos sobre isso?
+- Existe diferença de abordagem quando o cliente demonstra desconhecimento técnico?
+
+## Fontes para pesquisa:
+
+- Experimentos sociais  
+- Artigos acadêmicos  
+- Reportagens investigativas  
+- Dados do Procon  
+
+A equipe deve apresentar evidências documentadas.
+
+---
+
+# Mapeamento do Problema no Brasil
+
+Pesquisar evidências reais em:
+
+- Reclamações registradas no Procon  
+- Avaliações no Google Maps de oficinas  
+- Reclamações no Reclame Aqui  
+- Processos judiciais envolvendo oficinas  
+
+## Pergunta Científica:
+
+> O problema é percepção subjetiva ou possui base estatística?
+
+A resposta deve ser fundamentada com dados.
+
+---
+
+# Formulação de Hipóteses
+
+A equipe deve propor **hipóteses testáveis**, baseadas na pesquisa realizada.
+
+## Exemplos:
+
+- **H1** – Existe grande variação de preço para o mesmo serviço na mesma cidade.  
+- **H2** – Serviços mais técnicos apresentam maior dispersão de preço.  
+- **H3** – A falta de padronização de preços aumenta a insegurança do consumidor.  
+- **H4** – Regiões centrais possuem maior média de preço.  
+
+## Requisitos das hipóteses:
+
+- Devem ser claras  
+- Devem ser mensuráveis  
+- Devem ter base teórica  
+- Devem permitir análise estatística futura  
+
+---
+
+# Pesquisa sobre Variáveis Relevantes
+
+Refletir:
+
+> O preço depende apenas do serviço?
+
+## Possíveis variáveis:
+
+- Cidade  
+- Bairro  
+- Tipo da oficina (concessionária vs independente)  
+- Tipo do carro  
+- Marca  
+- Ano  
+- Urgência do serviço  
+- Tipo de peça (original ou paralela)  
+
+A equipe deve propor um **modelo inicial de variáveis para análise futura**.
+
+---
+
+# Pesquisa sobre Comportamento do Consumidor
+Pesquisar conceitos como:
+
+- Psicologia do consumo  
+- Medo de parecer ignorante  
+- Linguagem técnica como barreira  
+- Confiança como fator econômico  
+
+Objetivo: compreender o aspecto humano além do aspecto estatístico.
+
+---
